@@ -17,10 +17,10 @@ São modelos ou padrões de programação. São padrões que servem para guiar o
 ## Ferramentas Utilizadas
 
 <p align="left">
-  <img src="./assets/onecompiler.svg" width="50" alt="OneCompiler"/>
-  <img src="./assets/vscode.svg" width="50" alt="Visual Studio Code"/>
-  <img src="./assets/github.svg" width="50" alt="GitHub"/>
-  <img src="./assets/prolog.svg" width="50" alt="Prolog"/>
+  <img src="https://img.shields.io/badge/OneCompiler-000000?style=for-the-badge&logo=&logoColor=white" alt="OneCompiler"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Prolog-A31FD8?style=for-the-badge&logo=&logoColor=white" alt="Prolog"/>
 </p>
 
 * OneCompiler
