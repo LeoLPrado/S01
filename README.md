@@ -6,7 +6,7 @@ São modelos ou padrões de programação. São padrões que servem para guiar o
 
 ## 4 paradigmas vistos durante o semestre
 
-**Imperativo** → BASIC, Lua, Rust, Go, C++
+**Imperativo** → é o paradigma que descreve como o programa deve executar uma tarefa, por meio de uma sequência de instruções (BASIC, Lua, Rust, Go, C++)
 
 **Orientado a Objetos** → C++, C#, Python, Ruby, JavaScript, Java
 
