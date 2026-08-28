@@ -11,11 +11,11 @@ fn acertou_o_alvo(palpite: i32, numero_secreto: i32) -> bool{
         if diff <= 5 {
             println!("Parabens, voce acertou o alvo!");
             println!("Voce ficou a apenas {} unidade(s) do numero secreto ({}).", diff, numero_secreto);
-            return true;
+            true
         }
         else {
             println!("Voce passou longe! Tente novamente.");
-            return false;
+            false
         }
 }
 

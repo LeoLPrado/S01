@@ -15,12 +15,11 @@ fn validar_placa(placa:&str) -> bool{
     }
 
     if len >= 7 && count_upper >= 4 && count_number >= 2{
-        return true;
+        true
     }
     else {
-        return false;
+        false
     }
-    
 }
 
 fn main() {

@@ -15,7 +15,7 @@ fn calcular_pontuacao(prova1: f64, prova2: f64,redacao: f64) -> f64{
         println!("Infelizmente o candidato nao atingiu a pontuacao minima de aprovacao.");
     }
     
-    return NotaFinal;
+    NotaFinal
 }
 
 
