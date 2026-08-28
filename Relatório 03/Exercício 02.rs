@@ -24,10 +24,11 @@ fn main(){
 
     loop {
         let mut entrada = String::new();
+        println!("Digite seu palpite:");
         io::stdin().read_line(&mut entrada).expect("Erro ao ler o palpite");
         let palpite: i32 = entrada.trim().parse().expect("Digite um numero valido");
 
-        if acertou_o_alvo(numero_secreto, palpite){
+        if acertou_o_alvo(palpite, numero_secreto){
             break;
         }
     }
